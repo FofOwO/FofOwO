@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FofOwO
 - 👀 I’m interested in theorycrafting on diferents games particulary Genshin Impact
-- 🌱 I’m currently learning Java & JavaScript
+- 🌱 I’m currently learning Java 
 - 📫 You can add me on discord : Forsten#0778
 
 <!---
